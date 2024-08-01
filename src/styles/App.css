@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.app-header {
+  height: 60px;
+  position: fixed;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-bottom: 1px solid #88888835;
+  box-shadow: rgba(0, 0, 0, 0.06) 0px 3px 10px;
+}
+
+.app-main-container {
+  display: flex;
+  overflow: hidden;
+  margin-top: 60px;
+}

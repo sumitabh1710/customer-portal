@@ -1,0 +1,16 @@
+.customer-list {
+  width: 25%;
+  overflow-y: scroll;
+  border-right: 1px solid #ccc;
+}
+
+.list-loader {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  color: #888888f2;
+}
