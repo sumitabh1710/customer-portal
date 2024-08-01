@@ -1,12 +1,6 @@
 # Customer-Portal
 
-**Customer-Portal** is a modern web application built using React. It provides a user-friendly interface for managing and viewing customer data, with features including infinite scrolling to load more customers dynamically as the user scrolls, and detailed customer profiles.
-
-## Features
-
-- **Dynamic Customer List:** Load and view a list of customers with infinite scrolling.
-- **Customer Details:** Click on a customer to view detailed information.
-- **Responsive Design:** Optimized for various screen sizes and devices.
+**Customer-Portal** is a modern web application built using React. It provides a user-friendly interface for viewing customer data, with features including infinite scrolling to load more customers dynamically as the user scrolls, and detailed customer profiles.
 
 ## Prerequisites
 
