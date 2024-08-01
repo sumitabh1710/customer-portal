@@ -25,21 +25,26 @@ To get started with this project, follow these steps:
 
    ```bash
    cd path/to/your/directory
-
+   ```
+   
   ```bash
    git clone https://github.com/sumitabh1710/customer-portal.git
+```
 
   ```bash
    cd customer-portal
+```
 
 ## Once you have cloned the repository, you need to install the project’s dependencies:
 
   ```bash
    npm install
+```
 
 ## To start the project in development mode, use the following command:
 
   ```bash
    npm start
+```
 
 This will run the app in development mode and open http://localhost:3000 in your default browser.
